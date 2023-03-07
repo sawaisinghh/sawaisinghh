@@ -1,4 +1,4 @@
-## 👋 Hello there! I'm Sawai Singh
+## 👋 Hello there! I'm Sawai Singh Rajpurohit
 I'm a web developer and open source enthusiast passionate about using technology to create impactful solutions. I love collaborating on open source projects, contributing to the community, and learning new skills.
 
 
